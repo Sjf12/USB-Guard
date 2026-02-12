@@ -78,7 +78,7 @@ USB Guard implements the **maximum possible protection in user space**.
 ### 1. Run the tool
 
 ```bash
-python usb_guard.py
+python usb-guard.py
 ```
 
 The script will automatically request **administrator privileges**.
